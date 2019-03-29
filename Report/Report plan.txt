@@ -1,0 +1,21 @@
+Introduction
+	-Scenario/Objective
+	-Background information
+	-Assumptions made based of briefing document
+	-Functional requirements
+	-Project plan
+
+Development
+	-Method of approach
+	-ERD
+	-Front end view storyboards
+	-APEX Admin and Student development
+
+Evaluation
+	-Areas for development (and problems encountered)
+	-Conclusion
+
+Apendix
+	-Normalised attributes
+	-SQL scripts
+	-Storyboards
